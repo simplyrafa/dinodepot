@@ -1,0 +1,19 @@
+{
+    "production": [
+        {
+            "dinoType": "Blueprint'/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP'",
+            "produces": [
+                {
+                    "intervalSeconds": 10,
+                    "alternateItemChance": 0.5,
+                    "items": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Element.PrimalItemResource_Element'"
+                    ],
+                    "alternateItems": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+                    ]
+                }
+            ]
+        }
+    ]
+}
